@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on Firetower Project</title>
+    <link>firetowerproject.github.io/testimonial/</link>
+    <description>Recent content in Testimonials on Firetower Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2020 19:32:24 -0400</lastBuildDate><atom:link href="firetowerproject.github.io/testimonial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hothothot</title>
+      <link>firetowerproject.github.io/testimonial/hothothot/</link>
+      <pubDate>Tue, 29 Sep 2020 19:32:24 -0400</pubDate>
+      
+      <guid>firetowerproject.github.io/testimonial/hothothot/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Rickroll</title>
+      <link>firetowerproject.github.io/testimonial/rickroll/</link>
+      <pubDate>Tue, 29 Sep 2020 19:21:51 -0400</pubDate>
+      
+      <guid>firetowerproject.github.io/testimonial/rickroll/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
