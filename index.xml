@@ -2,62 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firetower Project</title>
-    <link>firetowerproject.github.io/</link>
+    <link>http://firetowerproject.org/</link>
     <description>Recent content on Firetower Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 19:32:24 -0400</lastBuildDate><atom:link href="firetowerproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2020 19:32:24 -0400</lastBuildDate><atom:link href="http://firetowerproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vision</title>
+      <link>http://firetowerproject.org/vision/</link>
+      <pubDate>Mon, 05 Oct 2020 21:00:05 -0400</pubDate>
+      
+      <guid>http://firetowerproject.org/vision/</guid>
+      <description>Our vision statement is a reflection on the impacts of the Firetower Project when it is achieving its mission.
+ It&amp;rsquo;s the Fall of 2025. Excitement has been growing around the AppState men&amp;rsquo;s cross country program. It&amp;rsquo;s been quite a while since the team is headed into the regional meet with a chance at making the NCAA championship.
+The team has spent most of the season in the &amp;ldquo;others receiving votes&amp;rdquo; category in the national rankings, and they are pumped and ready to go at the regional meet after winning yet another conference championship two weeks ago, which almost felt like a formality.</description>
+    </item>
+    
     <item>
       <title>Mission</title>
-      <link>firetowerproject.github.io/mission/</link>
+      <link>http://firetowerproject.org/mission/</link>
       <pubDate>Thu, 01 Oct 2020 15:32:38 -0400</pubDate>
       
-      <guid>firetowerproject.github.io/mission/</guid>
+      <guid>http://firetowerproject.org/mission/</guid>
       <description>The Firetower Project exists to support and promote elevating the Appalachian State men&amp;rsquo;s cross country team back to the NCAA Championships. Led by alumni, in conjuction with the athletic department and the Yosef Club, the project seeks to inspire supporters to grow the resources of the cross country program.</description>
     </item>
     
     <item>
       <title>Hothothot</title>
-      <link>firetowerproject.github.io/testimonial/hothothot/</link>
+      <link>http://firetowerproject.org/testimonial/hothothot/</link>
       <pubDate>Tue, 29 Sep 2020 19:32:24 -0400</pubDate>
       
-      <guid>firetowerproject.github.io/testimonial/hothothot/</guid>
+      <guid>http://firetowerproject.org/testimonial/hothothot/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Rickroll</title>
-      <link>firetowerproject.github.io/testimonial/rickroll/</link>
+      <link>http://firetowerproject.org/testimonial/rickroll/</link>
       <pubDate>Tue, 29 Sep 2020 19:21:51 -0400</pubDate>
       
-      <guid>firetowerproject.github.io/testimonial/rickroll/</guid>
+      <guid>http://firetowerproject.org/testimonial/rickroll/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Hollis</title>
-      <link>firetowerproject.github.io/quote/hollis/</link>
+      <link>http://firetowerproject.org/quote/hollis/</link>
       <pubDate>Tue, 29 Sep 2020 17:17:33 -0400</pubDate>
       
-      <guid>firetowerproject.github.io/quote/hollis/</guid>
+      <guid>http://firetowerproject.org/quote/hollis/</guid>
       <description>I&amp;rsquo;m injured.</description>
     </item>
     
     <item>
       <title>Evans</title>
-      <link>firetowerproject.github.io/quote/evans/</link>
+      <link>http://firetowerproject.org/quote/evans/</link>
       <pubDate>Tue, 29 Sep 2020 17:16:19 -0400</pubDate>
       
-      <guid>firetowerproject.github.io/quote/evans/</guid>
+      <guid>http://firetowerproject.org/quote/evans/</guid>
       <description>I was conference champion before they fixed the results.</description>
     </item>
     
     <item>
       <title>Slagle</title>
-      <link>firetowerproject.github.io/quote/slagle/</link>
+      <link>http://firetowerproject.org/quote/slagle/</link>
       <pubDate>Tue, 29 Sep 2020 17:14:18 -0400</pubDate>
       
-      <guid>firetowerproject.github.io/quote/slagle/</guid>
+      <guid>http://firetowerproject.org/quote/slagle/</guid>
       <description>I played mind games.</description>
     </item>
     
