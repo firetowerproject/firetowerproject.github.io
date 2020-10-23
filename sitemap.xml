@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://firetowerproject.org/letter/</loc>
+    <lastmod>2020-10-22T20:30:22-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://firetowerproject.org/quote/</loc>
     <lastmod>2020-10-13T20:36:16-04:00</lastmod>
   </url>
